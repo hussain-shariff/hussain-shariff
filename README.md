@@ -25,7 +25,9 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-shariff&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img alt="Hussain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-shariff&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="48%" align='left'/></p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-shariff&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img alt="Hussain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-shariff&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="400px" align='left'/></p>
+
+
 
 ### Languages & Tools :
 

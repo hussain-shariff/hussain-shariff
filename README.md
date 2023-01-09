@@ -8,7 +8,7 @@
 - 🌱 I’m currently focusing on frontend development
 - 👯 I’m looking to collaborate on Github
 - 🥅 2023 Goals: Be a better human 
-- 📬 How to reach me:  [![](https://twitter.com/hussainshariff_)]
+- 📬 How to reach me: https://twitter.com/hussainshariff_
 - ⚡ Oneday I will make it happen 
 
 </br>
@@ -26,9 +26,18 @@
 
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-shariff&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=hussain-shariff&count_private=true&theme=radical"/></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="60"/> </a><img src="https://simpleicons.org/icons/git.svg" alt="Git" width="50" height="60"/> </a>
-</p>
-<br><br>
+### Languages & Tools :
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React.JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Sanity](https://img.shields.io/badge/Sanity-5D1A60?style=for-the-badge&logo=sanity&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 

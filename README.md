@@ -8,7 +8,7 @@
 - 🌱 I’m currently focusing on frontend development
 - 👯 I’m looking to collaborate on Github
 - 🥅 2023 Goals: Be a better human 
-- 📬 How to reach me:  ![](https://twitter.com/hussainshariff_)
+- 📬 How to reach me:  [![](https://twitter.com/hussainshariff_)]
 - ⚡ Oneday I will make it happen 
 
 </br>

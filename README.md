@@ -26,22 +26,9 @@
 
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain-shariff&theme=radical" alt="aniket pal" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=hussain-shariff&count_private=true&theme=radical"/></p>
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="50" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="50" height="60"/> </a> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="50" height="60"/> </a><img src="https://simpleicons.org/icons/git.svg" alt="Git" width="50" height="60"/> </a>
+</p>
+<br><br>
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 

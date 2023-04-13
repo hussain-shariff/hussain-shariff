@@ -4,11 +4,11 @@
 ![](https://activity-graph.herokuapp.com/graph?username=aniket762&theme=react-dark&hide_border=true&area=true)
 
 
-- 🔭 I’m currently working on developing coding skills 
+- 🔭 I’m a MERN stack dev
 - 🌱 I’m currently focusing on backend development
 - 👯 I’m looking to collaborate on Github
 - 🥅 2023 Goals: Be a better human 
-- 📬 How to reach me: https://twitter.com/hussainshariff_
+- 📬 How to reach me: hussainshariff444@gmail.com
 - ⚡ Oneday I will make it happen 
 
 </br>
@@ -34,6 +34,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React.JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node-Green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express.js&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&log)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)

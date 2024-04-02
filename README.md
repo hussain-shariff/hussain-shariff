@@ -5,9 +5,7 @@
 
 
 - 🔭 I’m a MERN stack dev
-- 🌱 I’m currently focusing on backend development
-- 👯 I’m looking to collaborate on Github
-- 🥅 2023 Goals: Be a better human 
+- 🥅 2024 Goals: Be a better human 
 - 📬 How to reach me: hussainshariff444@gmail.com
 - ⚡ Oneday I will make it happen 
 

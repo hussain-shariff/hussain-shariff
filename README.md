@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m a MERN stack dev
-- 🥅 2024 Goals: Be a better human 
+- 🥅 2026 Goals: Be a better human 
 - 📬 How to reach me: hussainshariff444@gmail.com
 - ⚡ Oneday I will make it happen 
 
